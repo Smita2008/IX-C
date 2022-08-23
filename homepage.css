@@ -1,0 +1,23 @@
+body {
+  background-color: #CDE6ED;
+}
+
+.rd {
+  font-family: "Ubuntu", "Grandstander", ;
+  font-size: 70px;
+  text-align: center;
+  margin-top: 70px;
+}
+
+.as {
+  font-family: "Grandstander";
+  font-size: 55px;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+a {
+  margin-left: 16.5rem;
+  font-size: 30px;
+}
